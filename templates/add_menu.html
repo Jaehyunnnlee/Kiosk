@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>관리자 로그인</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">메뉴 추가</h1>
+        
+        {% if error_message %}
+        <div class="alert alert-danger">{{ error_message }}</div>
+        {% endif %}
+        
+        <form method="POST" action="/admin/admin_menu" class="mt-4">
+            <div class="mb-3">
+                <label for="menuname" class="form-label">menu name</label>
+                <input type="text" id="menuname" name="menu_name" class="form-control" required>
+            </div>
+            
+            <div class="mb-3">
+                <label for="menuprice" class="form-label">menu price</label>
+                <input type="text" id="menuprice" name="menu_price" class="form-control" required>
+            </div>
+            
+            <div class="mb-3">
+                <label for="menucategory" class="form-label">menu category</label>
+                <input type="text" id="menucategory" name="menu_category" class="form-control" required>
+            </div>
+            
+            <button type="submit" class="btn btn-primary">추가</button>
+        </form>
+        
+        <div class="text-center mt-4">
+            <a href="/admin/admin_famous" class="btn btn-primary">인기 메뉴 보기</a>
+        </div>
+    </div>
+</body>
+</html>
