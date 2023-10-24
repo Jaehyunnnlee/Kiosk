@@ -17,5 +17,6 @@ The kiosk provides a convenient ordering experience by providing recommendation 
 
 # FrontEnd
 ![image](https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/e7b5eac6-8a20-4f1d-ba9c-d7c69518f07a) {: width="100" height="100"} ![image](https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/353c9184-da48-43e2-a218-db82232fcec2) {: width="100" height="100"}
+<img src="(https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/e7b5eac6-8a20-4f1d-ba9c-d7c69518f07a" width="400" height="200">
 
 
