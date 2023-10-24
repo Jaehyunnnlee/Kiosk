@@ -16,6 +16,7 @@ The kiosk provides a convenient ordering experience by providing recommendation 
 <img src="https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/e4866ea3-5560-4ac6-98fc-5b3c69aedf0e" width="50%" height="50%">
 
 # FrontEnd
-<img src="https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/9ab60574-0779-44a5-966a-c3fbb271c56e" width="300" height="300"> <img src="https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/9aa7bf2a-b50f-498a-b169-4c621279ac23" width="300" height="300">
+
+주문화면 <img src="https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/9ab60574-0779-44a5-966a-c3fbb271c56e" width="300" height="300"> 주문목록 <img src="https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/9aa7bf2a-b50f-498a-b169-4c621279ac23" width="300" height="300">
 
 
