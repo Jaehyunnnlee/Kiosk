@@ -16,6 +16,6 @@ The kiosk provides a convenient ordering experience by providing recommendation 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
 # FrontEnd
-![image](https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/e7b5eac6-8a20-4f1d-ba9c-d7c69518f07a) ![image](https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/353c9184-da48-43e2-a218-db82232fcec2)
+![image](https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/e7b5eac6-8a20-4f1d-ba9c-d7c69518f07a){: width="100" height="100"} ![image](https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/353c9184-da48-43e2-a218-db82232fcec2){: width="100" height="100"}
 
 
