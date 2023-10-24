@@ -12,4 +12,5 @@ The kiosk provides a convenient ordering experience by providing recommendation 
 ![image](https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/3153cc15-d497-438d-a6b0-2b56b26fdc84)
 
 #Stacks
+
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
