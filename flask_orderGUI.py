@@ -13,7 +13,7 @@ is_not_login=True
 def get_menu_data():
     global menu_data, categorized_menu_data
     try:
-        response = requests.get('http://192.168.0.91:5000/menus')
+        response = requests.get('localhost:5000/menus')
         if response.status_code == 200:
             menu_data = response.json()
             categorized_menu_data = {}
