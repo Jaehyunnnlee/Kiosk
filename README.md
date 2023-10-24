@@ -8,12 +8,12 @@ The seller improves the service by checking the status of the order and identify
 
 The kiosk provides a convenient ordering experience by providing recommendation services to users.
 
-# system architecture
-<img src="https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/e4866ea3-5560-4ac6-98fc-5b3c69aedf0e" width="50%" height="50%">
-
 #Stacks
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+
+# system architecture
+<img src="https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/e4866ea3-5560-4ac6-98fc-5b3c69aedf0e" width="50%" height="50%">
 
 # FrontEnd
 <img src="https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/9ab60574-0779-44a5-966a-c3fbb271c56e" width="300" height="300"> <img src="https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/9aa7bf2a-b50f-498a-b169-4c621279ac23" width="300" height="300">
