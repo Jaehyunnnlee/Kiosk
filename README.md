@@ -9,7 +9,7 @@ The seller improves the service by checking the status of the order and identify
 The kiosk provides a convenient ordering experience by providing recommendation services to users.
 
 # system architecture
-![image](https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/3153cc15-d497-438d-a6b0-2b56b26fdc84)
+<img src="https://github.com/Jaehyunnnlee/Kiosk/assets/117609943/e4866ea3-5560-4ac6-98fc-5b3c69aedf0e" width="50%" height="50%">
 
 #Stacks
 
